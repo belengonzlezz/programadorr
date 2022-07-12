@@ -3,3 +3,7 @@ huevos
 arbol
 tele
 facundo
+cadena
+bola
+gato
+pato
